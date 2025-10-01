@@ -1,4 +1,4 @@
-# SQL Inject - 416
+# SQL Inject
 
 **Problem Statement:** No fun flavortext. Just a SQL Injection challenge. (SQL is actually so cool and awesome but I couldn't think of ANYTHING fun to do with this one)
 

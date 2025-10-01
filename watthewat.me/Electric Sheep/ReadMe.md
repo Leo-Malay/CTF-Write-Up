@@ -1,4 +1,4 @@
-# Electric Sheep - 430
+# Electric Sheep
 
 **Problem Statement:** I'm hosting an art gallery in a few weeks, and asked AI to draw me a picture. I wanted it to be full of emotion - raw human emotion. It definitely gave me a picture, but I'm not sure about the "human" emotion part. Can you figure out what it was trying to tell me? Maybe there's more to a robot's soul...
 

@@ -1,4 +1,4 @@
-# Goose Hunt - 464
+# Goose Hunt
 
 **Problem Statement:** I lost my herd of geese the other day. Any chance you'd be willing to go on a lil hunt for 'em? There are "geese" (flags) scattered all over this web page - and server. Find them all to unlock the big flag!
 
