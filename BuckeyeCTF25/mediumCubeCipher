@@ -1,0 +1,3 @@
+bctf{the_cUb3_pl4yS_Y0U}
+1. Keep spinning the cipher until we reach to a repetition (Option 3 and 4)
+2. Convert the hex to get the require flag
