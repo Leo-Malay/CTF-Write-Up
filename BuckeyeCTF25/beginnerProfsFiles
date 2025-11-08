@@ -1,0 +1,4 @@
+bctf{docx_is_zip}
+1. The doc is a bunch of files zipped.
+2. unzip OSU_Ethics_Report.docx -d ethics_unzip.
+3. theme1.xml has the flag
